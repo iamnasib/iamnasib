@@ -21,4 +21,4 @@ I am currently thriving as a freelance developer, actively seeking exciting oppo
 
 I'm open to collaborating on interesting projects and connecting with fellow developers. Let's explore the endless possibilities of technology together!
 
-Feel free to reach out to me via [email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/). Let's build something amazing! 🚀
+Feel free to reach out to me via [email](mailto:nasibfarooq@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/iamnasib/). Let's build something amazing! 🚀
