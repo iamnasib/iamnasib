@@ -7,8 +7,8 @@ I am a Full Stack Developer with a passion for innovation and problem-solving. I
 ## Skills
 
 - 💻 **Frontend Development:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript
-- 🛠️ **Backend Development:** C#, Python, Django, Django REST
-- 🚀 **Frameworks & Libraries:** Angular
+- 🛠️ **Backend Development:** C#, Python, Django, Django REST, Express, MongoDB
+- 🚀 **Frameworks & Libraries:** React
 - 📦 **No-Code Development Platforms:** Bubble.io, Flutterflow
 - 🔌 **API Integration:** RESTful APIs
 - 🔧 **Plugin Integration:** Experience integrating various plugins for enhanced functionality
