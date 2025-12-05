@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Full Stack Developer with a passion for innovation and problem-solving. I thrive on developing end-to-end solutions, combining technical proficiency with a keen eye for user experience. My specialization lies in no-code development, where I leverage the latest tools to create efficient and scalable solutions.
+As a passionate full-stack developer with a strong foundation in both no-code and custom code, I specialize in transforming ideas into fully functional, scalable web applications.
 
 ## Skills
 
@@ -15,7 +15,7 @@ I am a Full Stack Developer with a passion for innovation and problem-solving. I
 
 ## Currently
 
-I am currently thriving as a freelance developer, actively seeking exciting opportunities that challenge my skills and contribute to cutting-edge projects.
+I am currently thriving as a Bubble.io Developer, actively seeking exciting opportunities that challenge my skills and contribute to cutting-edge projects.
 
 ## Let's Connect
 
